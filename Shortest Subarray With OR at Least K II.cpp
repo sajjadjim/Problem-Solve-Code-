@@ -1,4 +1,4 @@
-class Solution { 
+class Solution {  
 public:
     bitset<30> B;
     int k;
